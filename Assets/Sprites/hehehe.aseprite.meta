@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 0d6b99c244ef8e34494db2a0d33de94d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: hehehe_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 477
+      height: 153
+    spriteID: 27faff5a50757b14b808d44926df8852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: -14}
+  - name: hehehe_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 165
+      width: 477
+      height: 153
+    spriteID: 43e2d27ee91bbd443866d9c035ddf127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 147}
+  - name: hehehe_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 326
+      width: 477
+      height: 153
+    spriteID: a977fe154baa4b948949de46ed27f2d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 308}
+  - name: hehehe_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 487
+      width: 477
+      height: 153
+    spriteID: 93b3f50c95b4aba43bc0cd61715d051b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 469}
+  - name: hehehe_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 648
+      width: 477
+      height: 153
+    spriteID: 21eb35f5072e6bb4c893b36e0a99d88a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 630}
+  - name: hehehe_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 809
+      width: 477
+      height: 153
+    spriteID: 8b17688c1a20c5c4abe3e6229dfb4bd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 791}
+  - name: hehehe_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 970
+      width: 477
+      height: 153
+    spriteID: b3c2cf7d1080d2440aeace38836507a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 952}
+  - name: hehehe_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1131
+      width: 477
+      height: 153
+    spriteID: 514b195efb6adae4e95e4ddcdbcaf346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 1113}
+  - name: hehehe_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1292
+      width: 477
+      height: 153
+    spriteID: daa0562a68f1dd3449de45a1ac5de992
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 1274}
+  - name: hehehe_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1453
+      width: 477
+      height: 153
+    spriteID: eb658fc533a4d554e89607e073bbeeda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 1435}
+  - name: hehehe_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1614
+      width: 477
+      height: 153
+    spriteID: a1e60cf5d64cce34fa8decead2203417
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 1596}
+  - name: hehehe_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1775
+      width: 477
+      height: 153
+    spriteID: c3685a7a523aa1d4887bbe2d1c07a91c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 1757}
+  - name: hehehe_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 4
+      width: 477
+      height: 153
+    spriteID: f83eab0847142524b8610780de649da9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: -14}
+  - name: hehehe_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 165
+      width: 477
+      height: 153
+    spriteID: 4c6fbc4bbbc6c6c4fa54c14e30241cd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 147}
+  - name: hehehe_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 326
+      width: 477
+      height: 153
+    spriteID: 7d8e7a2860b4ca74d8041af53d05f70d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 308}
+  - name: hehehe_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 487
+      width: 477
+      height: 153
+    spriteID: 2e4ed4ea5bbe17f43a16807f9408adac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 469}
+  - name: hehehe_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 648
+      width: 477
+      height: 153
+    spriteID: 8adce9816ba76044aa982f9cf0804722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 630}
+  - name: hehehe_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 809
+      width: 477
+      height: 153
+    spriteID: 82255cca6f22b334a94c0f2bfa0cec01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 791}
+  - name: hehehe_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 970
+      width: 477
+      height: 153
+    spriteID: a58e84c36e8ae4f439f973a44a63b0c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 952}
+  - name: hehehe_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 1131
+      width: 477
+      height: 153
+    spriteID: 3837e3083f8c301489f88e863fd5ffbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1113}
+  - name: hehehe_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 1292
+      width: 477
+      height: 153
+    spriteID: b22c788abb8c3ca4c9d772a26bb1f700
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1274}
+  - name: hehehe_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 1453
+      width: 477
+      height: 153
+    spriteID: 4b5b32696eb209d41bd31c03343fa3f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1435}
+  - name: hehehe_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 1614
+      width: 477
+      height: 153
+    spriteID: 29445f78fe5b81f48ac849f2eb5ef1bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1596}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1114728695
+    name: hehehe
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: hehehe_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 27faff5a50757b14b808d44926df8852
+    - name: hehehe_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 43e2d27ee91bbd443866d9c035ddf127
+    - name: hehehe_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: a977fe154baa4b948949de46ed27f2d9
+    - name: hehehe_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 93b3f50c95b4aba43bc0cd61715d051b
+    - name: hehehe_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 21eb35f5072e6bb4c893b36e0a99d88a
+    - name: hehehe_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 8b17688c1a20c5c4abe3e6229dfb4bd4
+    - name: hehehe_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: b3c2cf7d1080d2440aeace38836507a4
+    - name: hehehe_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 514b195efb6adae4e95e4ddcdbcaf346
+    - name: hehehe_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: daa0562a68f1dd3449de45a1ac5de992
+    - name: hehehe_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: eb658fc533a4d554e89607e073bbeeda
+    - name: hehehe_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: a1e60cf5d64cce34fa8decead2203417
+    - name: hehehe_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: c3685a7a523aa1d4887bbe2d1c07a91c
+    - name: hehehe_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: f83eab0847142524b8610780de649da9
+    - name: hehehe_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 4c6fbc4bbbc6c6c4fa54c14e30241cd1
+    - name: hehehe_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 7d8e7a2860b4ca74d8041af53d05f70d
+    - name: hehehe_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 2e4ed4ea5bbe17f43a16807f9408adac
+    - name: hehehe_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 8adce9816ba76044aa982f9cf0804722
+    - name: hehehe_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 82255cca6f22b334a94c0f2bfa0cec01
+    - name: hehehe_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: a58e84c36e8ae4f439f973a44a63b0c5
+    - name: hehehe_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 3837e3083f8c301489f88e863fd5ffbd
+    - name: hehehe_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: b22c788abb8c3ca4c9d772a26bb1f700
+    - name: hehehe_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 4b5b32696eb209d41bd31c03343fa3f5
+    - name: hehehe_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 495
+        height: 180
+      spriteId: 29445f78fe5b81f48ac849f2eb5ef1bc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 495, y: 180}
